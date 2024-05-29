@@ -1,7 +1,7 @@
 # College-Voting-System project using ASP.NET and SQL Database.
 
 <hr>
-•	<h2>System Requirements</h2> 
+	<h2>System Requirements</h2> 
 <br>
 </hr>
 <ul>
@@ -35,7 +35,7 @@
 </li>
 </ul>
 <hr>
-•	<h4>Main files</h4>
+	<h4>Main files</h4>
 </hr>
 <ul>
 	<li>Home.aspx</li>
